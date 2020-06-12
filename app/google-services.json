@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582703064348",
+    "firebase_url": "https://demopushapns.firebaseio.com",
+    "project_id": "demopushapns",
+    "storage_bucket": "demopushapns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582703064348:android:96b60b1b76829dbc4186d9",
+        "android_client_info": {
+          "package_name": "intelin.vn.DemoPushAPNs.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582703064348-0ugr3gnpj94o0qrgi4q6h6si1q17k0cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV085kh2V9FBCXLXEFB5J7OwYJhI1v0LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582703064348-0ugr3gnpj94o0qrgi4q6h6si1q17k0cf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582703064348-eicv2ujkva2v19l52ngjmg5479cqd1ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "intelin.vn.DemoPush-APNs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
